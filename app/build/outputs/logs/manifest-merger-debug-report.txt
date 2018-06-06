@@ -1,0 +1,84 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/Shane/AndroidStudioProjects/Assignment2/app/src/main/AndroidManifest.xml:1:1-11:12
+INJECTED from /Users/Shane/AndroidStudioProjects/Assignment2/app/src/main/AndroidManifest.xml:1:1-11:12
+INJECTED from /Users/Shane/AndroidStudioProjects/Assignment2/app/src/main/AndroidManifest.xml:1:1-11:12
+INJECTED from /Users/Shane/AndroidStudioProjects/Assignment2/app/src/main/AndroidManifest.xml:1:1-11:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/Shane/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/d00f7ebcbe6b4d4b18eaecee02a230a5/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/Shane/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/2588a3a27474c02da207034e7898dc8e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/Shane/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/e999741ecfb86adafe57d752892d34a9/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/Shane/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/184b9e89604ac84d24efcd23ae418b12/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/Shane/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/1be7175b93213317e8244870cec93501/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/Shane/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/bd0f55b52bcec791a676ac47612597e4/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] /Users/Shane/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/96f506ee2c89134a320f9f0afe1ae1a8/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/Shane/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/b6281e44b29730186b670c6c3cc28012/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/Shane/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/330e544bca31991376453a97e561477e/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/Shane/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/66ffb88965cecc6e5965133dc402b1b4/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] /Users/Shane/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/cb20649c6acea24b4fc8dc9eba74b35e/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/Shane/AndroidStudioProjects/Assignment2/app/src/main/AndroidManifest.xml:1:1-11:12
+INJECTED from /Users/Shane/AndroidStudioProjects/Assignment2/app/src/main/AndroidManifest.xml:1:1-11:12
+INJECTED from /Users/Shane/AndroidStudioProjects/Assignment2/app/src/main/AndroidManifest.xml:1:1-11:12
+	package
+		ADDED from /Users/Shane/AndroidStudioProjects/Assignment2/app/src/main/AndroidManifest.xml:2:5-39
+		INJECTED from /Users/Shane/AndroidStudioProjects/Assignment2/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/Shane/AndroidStudioProjects/Assignment2/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/Shane/AndroidStudioProjects/Assignment2/app/src/main/AndroidManifest.xml
+		ADDED from /Users/Shane/AndroidStudioProjects/Assignment2/app/src/main/AndroidManifest.xml:1:1-11:12
+		INJECTED from /Users/Shane/AndroidStudioProjects/Assignment2/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/Shane/AndroidStudioProjects/Assignment2/app/src/main/AndroidManifest.xml
+		ADDED from /Users/Shane/AndroidStudioProjects/Assignment2/app/src/main/AndroidManifest.xml:1:1-11:12
+		INJECTED from /Users/Shane/AndroidStudioProjects/Assignment2/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/Shane/AndroidStudioProjects/Assignment2/app/src/main/AndroidManifest.xml:1:11-69
+application
+ADDED from /Users/Shane/AndroidStudioProjects/Assignment2/app/src/main/AndroidManifest.xml:4:5-10:43
+	android:supportsRtl
+		ADDED from /Users/Shane/AndroidStudioProjects/Assignment2/app/src/main/AndroidManifest.xml:9:9-35
+	android:label
+		ADDED from /Users/Shane/AndroidStudioProjects/Assignment2/app/src/main/AndroidManifest.xml:7:9-41
+	android:roundIcon
+		ADDED from /Users/Shane/AndroidStudioProjects/Assignment2/app/src/main/AndroidManifest.xml:8:9-54
+	android:icon
+		ADDED from /Users/Shane/AndroidStudioProjects/Assignment2/app/src/main/AndroidManifest.xml:6:9-43
+	android:allowBackup
+		ADDED from /Users/Shane/AndroidStudioProjects/Assignment2/app/src/main/AndroidManifest.xml:5:9-35
+	android:theme
+		ADDED from /Users/Shane/AndroidStudioProjects/Assignment2/app/src/main/AndroidManifest.xml:10:9-40
+uses-sdk
+INJECTED from /Users/Shane/AndroidStudioProjects/Assignment2/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/Shane/AndroidStudioProjects/Assignment2/app/src/main/AndroidManifest.xml
+INJECTED from /Users/Shane/AndroidStudioProjects/Assignment2/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/Shane/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/d00f7ebcbe6b4d4b18eaecee02a230a5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/Shane/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/d00f7ebcbe6b4d4b18eaecee02a230a5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/Shane/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/2588a3a27474c02da207034e7898dc8e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/Shane/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/2588a3a27474c02da207034e7898dc8e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/Shane/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/e999741ecfb86adafe57d752892d34a9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/Shane/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/e999741ecfb86adafe57d752892d34a9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/Shane/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/184b9e89604ac84d24efcd23ae418b12/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/Shane/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/184b9e89604ac84d24efcd23ae418b12/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/Shane/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/1be7175b93213317e8244870cec93501/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/Shane/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/1be7175b93213317e8244870cec93501/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/Shane/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/bd0f55b52bcec791a676ac47612597e4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/Shane/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/bd0f55b52bcec791a676ac47612597e4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /Users/Shane/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/96f506ee2c89134a320f9f0afe1ae1a8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /Users/Shane/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/96f506ee2c89134a320f9f0afe1ae1a8/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/Shane/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/b6281e44b29730186b670c6c3cc28012/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/Shane/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/b6281e44b29730186b670c6c3cc28012/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/Shane/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/330e544bca31991376453a97e561477e/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/Shane/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/330e544bca31991376453a97e561477e/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/Shane/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/66ffb88965cecc6e5965133dc402b1b4/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/Shane/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/66ffb88965cecc6e5965133dc402b1b4/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /Users/Shane/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/cb20649c6acea24b4fc8dc9eba74b35e/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /Users/Shane/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/cb20649c6acea24b4fc8dc9eba74b35e/AndroidManifest.xml:20:5-44
+INJECTED from /Users/Shane/AndroidStudioProjects/Assignment2/app/src/main/AndroidManifest.xml
+INJECTED from /Users/Shane/AndroidStudioProjects/Assignment2/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/Shane/AndroidStudioProjects/Assignment2/app/src/main/AndroidManifest.xml
+		ADDED from /Users/Shane/AndroidStudioProjects/Assignment2/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/Shane/AndroidStudioProjects/Assignment2/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/Shane/AndroidStudioProjects/Assignment2/app/src/main/AndroidManifest.xml
+		ADDED from /Users/Shane/AndroidStudioProjects/Assignment2/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/Shane/AndroidStudioProjects/Assignment2/app/src/main/AndroidManifest.xml
