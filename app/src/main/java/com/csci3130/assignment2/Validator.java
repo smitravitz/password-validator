@@ -4,13 +4,13 @@ public class Validator {
 
     public static void Validate(int count) {
         System.out.print("Password Strength: ");
-        if(count==0)
-            System.out.println("Weak");
-        else if(count==1)
-            System.out.println("OK");
-        else if(count==2)
+        if(count==0|count==1)
+            System.out.println("Awful");
+        else if(count==2|count==3)
+            System.out.println("Poor");
+        else if(count==4)
+            System.out.println("Not good");
+        else if(count==5)
             System.out.println("Good");
-
     }
-
 }
