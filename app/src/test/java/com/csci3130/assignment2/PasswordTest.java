@@ -1,7 +1,7 @@
 package com.csci3130.assignment2;
 
-import org.junit.AfterClass;
 import org.junit.Test;
+import org.junit.AfterClass;
 import org.junit.runner.RunWith;
 import org.junit.runners.JUnit4;
 import org.junit.Assert;
@@ -27,6 +27,7 @@ public class PasswordTest {
     @AfterClass
     public static void num_tests_passed(){
         System.out.println(c);
+        Validator.Validate(c);
     }
 
 }
