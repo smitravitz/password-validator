@@ -1,10 +1,11 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /Users/Shane/AndroidStudioProjects/Assignment2/app/src/main/AndroidManifest.xml:1:1-11:12
-INJECTED from /Users/Shane/AndroidStudioProjects/Assignment2/app/src/main/AndroidManifest.xml:1:1-11:12
-INJECTED from /Users/Shane/AndroidStudioProjects/Assignment2/app/src/main/AndroidManifest.xml:1:1-11:12
-INJECTED from /Users/Shane/AndroidStudioProjects/Assignment2/app/src/main/AndroidManifest.xml:1:1-11:12
+ADDED from /Users/Shane/AndroidStudioProjects/Assignment2/app/src/main/AndroidManifest.xml:2:1-22:12
+INJECTED from /Users/Shane/AndroidStudioProjects/Assignment2/app/src/main/AndroidManifest.xml:2:1-22:12
+INJECTED from /Users/Shane/AndroidStudioProjects/Assignment2/app/src/main/AndroidManifest.xml:2:1-22:12
+INJECTED from /Users/Shane/AndroidStudioProjects/Assignment2/app/src/main/AndroidManifest.xml:2:1-22:12
 MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/Shane/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/d00f7ebcbe6b4d4b18eaecee02a230a5/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] /Users/Shane/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0.aar/fea167f0eabe4ebb0180c7f0ce1cc8da/AndroidManifest.xml:2:1-11:12
 MERGED from [com.android.support:support-fragment:27.1.1] /Users/Shane/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/2588a3a27474c02da207034e7898dc8e/AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/Shane/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/e999741ecfb86adafe57d752892d34a9/AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:support-core-ui:27.1.1] /Users/Shane/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/184b9e89604ac84d24efcd23ae418b12/AndroidManifest.xml:17:1-22:12
@@ -15,43 +16,61 @@ MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/Shane/.gradle/ca
 MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/Shane/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/330e544bca31991376453a97e561477e/AndroidManifest.xml:17:1-22:12
 MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/Shane/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/66ffb88965cecc6e5965133dc402b1b4/AndroidManifest.xml:17:1-22:12
 MERGED from [android.arch.core:runtime:1.1.0] /Users/Shane/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/cb20649c6acea24b4fc8dc9eba74b35e/AndroidManifest.xml:17:1-22:12
-INJECTED from /Users/Shane/AndroidStudioProjects/Assignment2/app/src/main/AndroidManifest.xml:1:1-11:12
-INJECTED from /Users/Shane/AndroidStudioProjects/Assignment2/app/src/main/AndroidManifest.xml:1:1-11:12
-INJECTED from /Users/Shane/AndroidStudioProjects/Assignment2/app/src/main/AndroidManifest.xml:1:1-11:12
+INJECTED from /Users/Shane/AndroidStudioProjects/Assignment2/app/src/main/AndroidManifest.xml:2:1-22:12
+INJECTED from /Users/Shane/AndroidStudioProjects/Assignment2/app/src/main/AndroidManifest.xml:2:1-22:12
+INJECTED from /Users/Shane/AndroidStudioProjects/Assignment2/app/src/main/AndroidManifest.xml:2:1-22:12
 	package
-		ADDED from /Users/Shane/AndroidStudioProjects/Assignment2/app/src/main/AndroidManifest.xml:2:5-39
+		ADDED from /Users/Shane/AndroidStudioProjects/Assignment2/app/src/main/AndroidManifest.xml:3:5-39
 		INJECTED from /Users/Shane/AndroidStudioProjects/Assignment2/app/src/main/AndroidManifest.xml
 		INJECTED from /Users/Shane/AndroidStudioProjects/Assignment2/app/src/main/AndroidManifest.xml
 	android:versionName
 		INJECTED from /Users/Shane/AndroidStudioProjects/Assignment2/app/src/main/AndroidManifest.xml
-		ADDED from /Users/Shane/AndroidStudioProjects/Assignment2/app/src/main/AndroidManifest.xml:1:1-11:12
+		ADDED from /Users/Shane/AndroidStudioProjects/Assignment2/app/src/main/AndroidManifest.xml:2:1-22:12
 		INJECTED from /Users/Shane/AndroidStudioProjects/Assignment2/app/src/main/AndroidManifest.xml
 	android:versionCode
 		INJECTED from /Users/Shane/AndroidStudioProjects/Assignment2/app/src/main/AndroidManifest.xml
-		ADDED from /Users/Shane/AndroidStudioProjects/Assignment2/app/src/main/AndroidManifest.xml:1:1-11:12
+		ADDED from /Users/Shane/AndroidStudioProjects/Assignment2/app/src/main/AndroidManifest.xml:2:1-22:12
 		INJECTED from /Users/Shane/AndroidStudioProjects/Assignment2/app/src/main/AndroidManifest.xml
 	xmlns:android
-		ADDED from /Users/Shane/AndroidStudioProjects/Assignment2/app/src/main/AndroidManifest.xml:1:11-69
+		ADDED from /Users/Shane/AndroidStudioProjects/Assignment2/app/src/main/AndroidManifest.xml:2:11-69
 application
-ADDED from /Users/Shane/AndroidStudioProjects/Assignment2/app/src/main/AndroidManifest.xml:4:5-10:43
+ADDED from /Users/Shane/AndroidStudioProjects/Assignment2/app/src/main/AndroidManifest.xml:5:5-20:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] /Users/Shane/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0.aar/fea167f0eabe4ebb0180c7f0ce1cc8da/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] /Users/Shane/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0.aar/fea167f0eabe4ebb0180c7f0ce1cc8da/AndroidManifest.xml:9:5-20
 	android:supportsRtl
-		ADDED from /Users/Shane/AndroidStudioProjects/Assignment2/app/src/main/AndroidManifest.xml:9:9-35
+		ADDED from /Users/Shane/AndroidStudioProjects/Assignment2/app/src/main/AndroidManifest.xml:10:9-35
 	android:label
-		ADDED from /Users/Shane/AndroidStudioProjects/Assignment2/app/src/main/AndroidManifest.xml:7:9-41
+		ADDED from /Users/Shane/AndroidStudioProjects/Assignment2/app/src/main/AndroidManifest.xml:8:9-41
 	android:roundIcon
-		ADDED from /Users/Shane/AndroidStudioProjects/Assignment2/app/src/main/AndroidManifest.xml:8:9-54
+		ADDED from /Users/Shane/AndroidStudioProjects/Assignment2/app/src/main/AndroidManifest.xml:9:9-54
 	android:icon
-		ADDED from /Users/Shane/AndroidStudioProjects/Assignment2/app/src/main/AndroidManifest.xml:6:9-43
+		ADDED from /Users/Shane/AndroidStudioProjects/Assignment2/app/src/main/AndroidManifest.xml:7:9-43
 	android:allowBackup
-		ADDED from /Users/Shane/AndroidStudioProjects/Assignment2/app/src/main/AndroidManifest.xml:5:9-35
+		ADDED from /Users/Shane/AndroidStudioProjects/Assignment2/app/src/main/AndroidManifest.xml:6:9-35
 	android:theme
-		ADDED from /Users/Shane/AndroidStudioProjects/Assignment2/app/src/main/AndroidManifest.xml:10:9-40
+		ADDED from /Users/Shane/AndroidStudioProjects/Assignment2/app/src/main/AndroidManifest.xml:11:9-40
+activity#com.csci3130.assignment2.MainActivity
+ADDED from /Users/Shane/AndroidStudioProjects/Assignment2/app/src/main/AndroidManifest.xml:12:9-19:20
+	android:name
+		ADDED from /Users/Shane/AndroidStudioProjects/Assignment2/app/src/main/AndroidManifest.xml:13:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/Shane/AndroidStudioProjects/Assignment2/app/src/main/AndroidManifest.xml:14:13-18:29
+action#android.intent.action.MAIN
+ADDED from /Users/Shane/AndroidStudioProjects/Assignment2/app/src/main/AndroidManifest.xml:15:17-69
+	android:name
+		ADDED from /Users/Shane/AndroidStudioProjects/Assignment2/app/src/main/AndroidManifest.xml:15:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/Shane/AndroidStudioProjects/Assignment2/app/src/main/AndroidManifest.xml:17:17-77
+	android:name
+		ADDED from /Users/Shane/AndroidStudioProjects/Assignment2/app/src/main/AndroidManifest.xml:17:27-74
 uses-sdk
 INJECTED from /Users/Shane/AndroidStudioProjects/Assignment2/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from /Users/Shane/AndroidStudioProjects/Assignment2/app/src/main/AndroidManifest.xml
 INJECTED from /Users/Shane/AndroidStudioProjects/Assignment2/app/src/main/AndroidManifest.xml
 MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/Shane/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/d00f7ebcbe6b4d4b18eaecee02a230a5/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/Shane/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/d00f7ebcbe6b4d4b18eaecee02a230a5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] /Users/Shane/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0.aar/fea167f0eabe4ebb0180c7f0ce1cc8da/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] /Users/Shane/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0.aar/fea167f0eabe4ebb0180c7f0ce1cc8da/AndroidManifest.xml:5:5-7:41
 MERGED from [com.android.support:support-fragment:27.1.1] /Users/Shane/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/2588a3a27474c02da207034e7898dc8e/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:support-fragment:27.1.1] /Users/Shane/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/2588a3a27474c02da207034e7898dc8e/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/Shane/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/e999741ecfb86adafe57d752892d34a9/AndroidManifest.xml:20:5-44
